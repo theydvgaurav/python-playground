@@ -1,4 +1,4 @@
-#sync async
+# sync async
 import asyncio
 
 
@@ -23,3 +23,9 @@ def main():
 
 
 main()
+
+# output
+"""
+5
+25
+"""
