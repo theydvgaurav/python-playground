@@ -103,17 +103,3 @@ venv/*
 .vscode/settings.json
 /.mypy_cache/
 *.pem
-
-# remove test_images from commit
-test_images/
-
-#remove feedback_images from commit
-feedback_images/
-
-#remove .p8 files
-apple_sign_in_key.p8
-
-#remove google service json file
-google_service_account.json
-google_service_account_maverick.json
-google_service_account_2.json
